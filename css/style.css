@@ -1,9 +1,10 @@
 body{
     background-color: #121212;
+    text-align: center;
 }   
 canvas{
     border: solid 1px white;
-    width: 100%;
+    margin-top: 50px;
     
     
 }
